@@ -7,4 +7,4 @@ Download the whole image_detect folder as a bot, image_detect.py will be the mai
 4. Set your db structure in config
 5. Edit the folder path in test.txt, use folder_path/image_detect/image_detect.py folder_path to activate the image_detect bot
 
-<h2> Detect whether image is NSFW, Ads, QR Code, or inappropriate text </h2>
+The API will detect whether image is NSFW, Ads, QR Code, or inappropriate text
