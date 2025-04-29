@@ -1,0 +1,6 @@
+## image_detect
+python folder_path\image_detect\image_detect.py folder_path
+
+http://host_ip/port_ip
+http://host_ip/port_ip/nsfw_url?url=https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg
+http://host_ip/port_ip/ir_url?url=https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg
