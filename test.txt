@@ -1,0 +1,11 @@
+## image_detect
+python C:\Users\yc\Desktop\Bots-2024\bot-others\image_detect\image_detect.py C:\Users\yc\Desktop\Bots-2024\bot-others
+
+http://192.168.2.209:4090
+http://192.168.2.209:4090/nsfw_url?url=https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg
+http://192.168.2.209:4090/ir_url?url=https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg
+
+
+http://192.168.2.209:3080/bot_api?name=image_detect&func=nsfw_url&parameter={"url":"https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg"}
+http://192.168.2.209:3080/bot_api?name=image_detect&func=ir_url&parameter={"url":"https://images.chinatimes.com/newsphoto/2022-03-06/656/20220306703105.jpg"}
+
